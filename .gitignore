@@ -13,7 +13,6 @@
 *.userprefs
 .DS_Store
 Thumbs.db
-*.exe
 *.apk
 *.aab
 /WebBuilds/
