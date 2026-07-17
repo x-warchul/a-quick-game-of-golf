@@ -48,7 +48,7 @@ Complete each hole by getting the ball into the flagpole in the fewest strokes p
 
 ## Technologies Used
 
-- **Engine**: Unity (version used during development)
+- **Engine**: Unity
 - **Language**: C#
 - **Physics**: Unity's built-in Rigidbody system
 - **Audio**: Unity AudioSource components
